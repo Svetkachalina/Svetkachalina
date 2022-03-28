@@ -2,7 +2,7 @@
 ### I make HTML/CSS landings and multi-page sites based on Figma, Photoshop layouts, efficiently performing cross-browser and adaptive layouts. I know and use CSS, Flexbox, Grid, BEM methods. Always stay focused on achieving high-quality results under strict deadlines. 
 ## Привет! Я - Светлана, рада знакомству! 
 ### Я занимаюсь версткой лендингов и многостраничных сайтов по макетам из редакторов Figma, Photoshop.
-#### Внимательно и качественно выполняю кроссбраузерную, адаптивную верстку. Знаю и использую CSS, Flexbox, Grid, БЭМ. Свободно владею как техническим, так и разговорным английским, и это помогает мне взаимодействовать с иностранными заказчиками и коллегами. Ответственно подхожу к качеству и срокам работы.
+#### Внимательно и качественно выполняю кроссбраузерную, адаптивную верстку. Знаю и использую CSS, Flexbox, Grid, БЭМ. Ответственно подхожу к качеству и срокам работы.
 ### Мои работы
  #### [Сайт интернет-магазина кормов для домашних питомцев](https://svetkachalina.github.io/PedieCute/)
  #### [Сайт университета Uniford](https://svetkachalina.github.io/Uniford/)
