@@ -5,7 +5,6 @@
 #### Внимательно и качественно выполняю кроссбраузерную, адаптивную верстку. Знаю и использую CSS, Flexbox, Grid, БЭМ. Ответственно подхожу к качеству и срокам работы.
 ### Мои работы
  #### [Сайт интернет-магазина кормов для домашних питомцев](https://svetkachalina.github.io/PedieCute/)
- #### [Сайт университета Uniford](https://svetkachalina.github.io/Uniford/)
  #### [Сайт доставки вкусных бургеров](https://svetkachalina.github.io/Module01-Burger/menu.html) 
  #### [Лендинг нашумевшего сериала Game of Thrones ](https://svetkachalina.github.io/Game-Of-Thrones/)
  #### [Лендинг красивого сериала Killing Eve](https://svetkachalina.github.io/Killing-Eve/)
