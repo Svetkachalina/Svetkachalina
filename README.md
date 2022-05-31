@@ -8,7 +8,7 @@
  #### [Сайт доставки вкусных бургеров](https://svetkachalina.github.io/Module01-Burger/menu.html) 
  #### [Лендинг нашумевшего сериала Game of Thrones ](https://svetkachalina.github.io/Game-Of-Thrones/)
  #### [Лендинг красивого сериала Killing Eve](https://svetkachalina.github.io/Killing-Eve/)
- #### [Сайт-пример портфолио фрилансера](https://svetkachalina.github.io/Portfolio/))
+ #### [Сайт-пример портфолио фрилансера](https://svetkachalina.github.io/Portfolio/)
 
  
 - 📫 How to reach me: **Email**: svetkachalina@gmail.com  **Whatsapp or Telegram**: +7(968)797-63-11
